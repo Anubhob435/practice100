@@ -1,4 +1,4 @@
-# `stdbool.h` in C
+# `<stdbool.h>` in C
 
 The `stdbool.h` header in C is used to work with boolean data types. It was introduced in the C99 standard to provide a standard way to represent boolean values.
 

@@ -1,4 +1,4 @@
-# MATH.H - THE C STANDARD MATHEMATICAL LIBRARY
+# <math.h> - THE C STANDARD MATHEMATICAL LIBRARY
 
 ## 1. INTRODUCTION
 The math.h header is part of the C Standard Library that provides mathematical functions and constants for various computational needs. It was standardized in ANSI C and continues to be an essential component in C programming for mathematical calculations.

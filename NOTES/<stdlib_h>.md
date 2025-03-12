@@ -1,4 +1,4 @@
-# Comprehensive Notes on stdlib.h in C
+# Comprehensive Notes on <stdlib.h> in C
 
 ## Introduction
 The header file stdlib.h defines several general-purpose functions for performing dynamic memory management, 
